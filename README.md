@@ -19,3 +19,10 @@ A simple Python command-line interface (CLI) application to manage student detai
 
 ```bash
 python main.py
+
+## 👨‍💻 Author
+
+- **Vansh**  
+- GitHub: [Vansh-415](https://github.com/Vansh-415)
+
+Added author section to README
