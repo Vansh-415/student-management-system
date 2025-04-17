@@ -1,2 +1,21 @@
-# student-management-system
-A simple Python CLI app to manage student records using OOP
+# Student Management System (CLI App)
+
+A simple Python command-line interface (CLI) application to manage student details like name, age, and marks using Object-Oriented Programming.
+
+## 🔧 Features
+
+- Add multiple student records
+- View all added records
+- Easy menu-driven interface
+- Written in beginner-friendly Python
+
+## 🛠️ Tech Used
+
+- Python 3
+- OOP (Class, Object, Methods)
+- Loops, Conditionals
+
+## 🚀 How to Run
+
+```bash
+python main.py
